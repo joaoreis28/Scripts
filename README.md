@@ -1,2 +1,2 @@
 # Scripts
-Learning
+Learning shell scipting

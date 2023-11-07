@@ -1,2 +1,2 @@
 # Scripts
-Learning shell scipting !
+Learning shell scripting !
